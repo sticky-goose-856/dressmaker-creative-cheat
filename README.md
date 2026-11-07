@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Dressmaker Creative Workspace · Program documentation and download information.
-                                                                                                    
